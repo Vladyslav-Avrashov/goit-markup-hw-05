@@ -537,7 +537,7 @@ img {
   transform: translate(-50%, -50%);
   border-radius: 4px;
   width: 408px;
-  max-height: 584px;
+  min-height: 584px;
   padding-top: 72px;
   padding-left: 24px;
   padding-right: 24px;
